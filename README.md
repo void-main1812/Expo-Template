@@ -17,8 +17,8 @@ To use this template, you need to have Node.js, npm and expo-cli installed on yo
 Then, you can clone this repository and install the dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/react-native-expo-template.git
-cd react-native-expo-template
+git clone https://github.com/void-main1812/Expo-Template.git
+cd Expo-Template
 npm install
 ```
 
