@@ -49,8 +49,3 @@ If you want to contribute to this project, you are welcome to do so. Please foll
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/void-main1812/Expo-Template/blob/master/LICENSE) file for more details.
-
-Source: Conversation with Bing, 10/6/2023
-(1) lucas-mancini/react-app-readme-example - GitHub. https://github.com/lucas-mancini/react-app-readme-example.
-(2) How to Write a Good README File for Your GitHub Project - freeCodeCamp.org. https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/.
-(3) Writing an awesome Readme for your side projects - Medium. https://victorbruce82.medium.com/writing-an-awesome-readme-for-your-side-projects-fabd20f96db0.
